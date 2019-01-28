@@ -1,0 +1,535 @@
+# Alias Wavefront MTL File Exported from SketchUp
+# with OBJexporter (c) 2013 TIG
+# Made for '_____.obj'
+
+newmtl Default_Material
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Water_Pool_Light
+Ka 0.243137 0.584314 0.65098
+Kd 0.243137 0.584314 0.65098
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.6
+Tr 0.6
+map_Kd ______Textures/Water_Pool_Light.PNG
+
+newmtl Vegetation_Juniper2
+Ka 0.388235 0.501961 0.27451
+Kd 0.388235 0.501961 0.27451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Vegetation_Juniper2.PNG
+
+newmtl Stone_Pavers_Flagstone_Gray
+Ka 0.819608 0.819608 0.819608
+Kd 0.819608 0.819608 0.819608
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Stone_Pavers_Flagstone_Gray.PNG
+
+newmtl Stone_Masonry_Multi
+Ka 0.713725 0.686275 0.643137
+Kd 0.713725 0.686275 0.643137
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Stone_Masonry_Multi.PNG
+
+newmtl Stone_Sandstone_Ashlar_Light
+Ka 0.807843 0.698039 0.501961
+Kd 0.807843 0.698039 0.501961
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Stone_Sandstone_Ashlar_Light.PNG
+
+newmtl Stone_Coursed_Rough
+Ka 0.647059 0.627451 0.509804
+Kd 0.647059 0.627451 0.509804
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Stone_Coursed_Rough.PNG
+
+newmtl Stone_Coursed_Rough1
+Ka 0.647059 0.627451 0.509804
+Kd 0.647059 0.627451 0.509804
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Stone_Coursed_Rough1.PNG
+
+newmtl Sketchy_Brick_Multi
+Ka 0.901961 0.901961 0.898039
+Kd 0.901961 0.901961 0.898039
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Sketchy_Brick_Multi.PNG
+
+newmtl Groundcover_RiverRock_4inch
+Ka 0.568627 0.494118 0.427451
+Kd 0.568627 0.494118 0.427451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Groundcover_RiverRock_4inch.PNG
+
+newmtl Water_Pool_Light1
+Ka 0.243137 0.584314 0.65098
+Kd 0.243137 0.584314 0.65098
+Ks 0.333 0.333 0.333
+Ns 0
+d 0.6
+Tr 0.6
+map_Kd ______Textures/Water_Pool_Light1.PNG
+
+newmtl Beige1
+Ka 0.4 0.360784 0.364706
+Kd 0.4 0.360784 0.364706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Beige1.PNG
+
+newmtl 2
+Ka 0.678431 0.54902 0.411765
+Kd 0.678431 0.54902 0.411765
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/2.PNG
+
+newmtl Roofing_Tile_Spanish
+Ka 0.619608 0.368627 0.227451
+Kd 0.619608 0.368627 0.227451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Roofing_Tile_Spanish.PNG
+
+newmtl Roofing_Shingles_Asphalt
+Ka 0.741176 0.733333 0.780392
+Kd 0.741176 0.733333 0.780392
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Roofing_Shingles_Asphalt.PNG
+
+newmtl Roofing_Shingles_GAF_Estates1
+Ka 0.956863 0.956863 0.960784
+Kd 0.956863 0.956863 0.960784
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Roofing_Shingles_GAF_Estates1.PNG
+
+newmtl Wood-cherry1
+Ka 0.596078 0.337255 0.164706
+Kd 0.596078 0.337255 0.164706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Wood-cherry1.PNG
+
+newmtl Stone_01
+Ka 0.431373 0.372549 0.341176
+Kd 0.431373 0.372549 0.341176
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Stone_01.PNG
+
+newmtl GAF_Country_Estates
+Ka 0.529412 0.184314 0.0666667
+Kd 0.529412 0.184314 0.0666667
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/GAF_Country_Estates.PNG
+
+newmtl Wood-cherry2
+Ka 0.776471 0.439216 0.211765
+Kd 0.776471 0.439216 0.211765
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Wood-cherry2.PNG
+
+newmtl Wood-floor-light
+Ka 0.8 0.690196 0.498039
+Kd 0.8 0.690196 0.498039
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Wood-floor-light.PNG
+
+newmtl Color_A11
+Ka 0.6 0 0
+Kd 0.6 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Stone_Vein_Gray
+Ka 0.666667 0.662745 0.662745
+Kd 0.666667 0.662745 0.662745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Stone_Vein_Gray.PNG
+
+newmtl Color_I09
+Ka 0.596078 0.596078 1
+Kd 0.596078 0.596078 1
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_B17
+Ka 0.4 0.156863 0.0784314
+Kd 0.4 0.156863 0.0784314
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Stone_Vein_Gray2
+Ka 0.0862745 0.0862745 0.0862745
+Kd 0.0862745 0.0862745 0.0862745
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Stone_Vein_Gray2.PNG
+
+newmtl Cladding_Siding_Tan
+Ka 0.635294 0.494118 0.372549
+Kd 0.635294 0.494118 0.372549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Cladding_Siding_Tan.PNG
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.466667 0.466667 0.466667
+Kd 0.466667 0.466667 0.466667
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Metal_Aluminum_Anodized.PNG
+
+newmtl Color_009
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 3
+Ka 0.498039 0.313725 0.192157
+Kd 0.498039 0.313725 0.192157
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/3.PNG
+
+newmtl Smooth_Face_Concrete_Block
+Ka 0.764706 0.72549 0.729412
+Kd 0.764706 0.72549 0.729412
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Smooth_Face_Concrete_Block.PNG
+
+newmtl Gray3
+Ka 0.839216 0.839216 0.839216
+Kd 0.839216 0.839216 0.839216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl DarkGray
+Ka 0.317647 0.317647 0.317647
+Kd 0.317647 0.317647 0.317647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Wood_Cherry_Original
+Ka 0.596078 0.337255 0.164706
+Kd 0.596078 0.337255 0.164706
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Wood_Cherry_Original.PNG
+
+newmtl Color_001
+Ka 0.886275 0.886275 0.886275
+Kd 0.886275 0.886275 0.886275
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Sketchy_Shingles_Shakes
+Ka 0.788235 0.768627 0.772549
+Kd 0.788235 0.768627 0.772549
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Sketchy_Shingles_Shakes.PNG
+
+newmtl Roofing_Tile_Spanish1
+Ka 0.619608 0.368627 0.227451
+Kd 0.619608 0.368627 0.227451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Roofing_Tile_Spanish1.PNG
+
+newmtl Color_A19
+Ka 0.4 0.239216 0.239216
+Kd 0.4 0.239216 0.239216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Roofing_Tile_Spanish3
+Ka 0.619608 0.368627 0.227451
+Kd 0.619608 0.368627 0.227451
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Roofing_Tile_Spanish3.PNG
+
+newmtl Color_C01
+Ka 1 0.498039 0
+Kd 1 0.498039 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Color_A06
+Ka 0.8 0 0
+Kd 0.8 0 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Blinds_Cloth_Horizontal
+Ka 0.752941 0.639216 0.333333
+Kd 0.752941 0.639216 0.333333
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Blinds_Cloth_Horizontal.PNG
+
+newmtl Stone_Marble1
+Ka 0.858824 0.827451 0.815686
+Kd 0.858824 0.827451 0.815686
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Stone_Marble1.PNG
+
+newmtl Roofing_Slate_Tan
+Ka 0.917647 0.803922 0.588235
+Kd 0.917647 0.803922 0.588235
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Roofing_Slate_Tan.PNG
+
+newmtl 5
+Ka 0.388235 0.556863 0.215686
+Kd 0.388235 0.556863 0.215686
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl 6
+Ka 0.439216 0.345098 0.180392
+Kd 0.439216 0.345098 0.180392
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl auto1
+Ka 0.509804 0.490196 0.34902
+Kd 0.509804 0.490196 0.34902
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/auto1.PNG
+
+newmtl Image2
+Ka 0.694118 0.709804 0.682353
+Kd 0.694118 0.709804 0.682353
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Image2.PNG
+
+newmtl DarkGreen
+Ka 0 0.392157 0
+Kd 0 0.392157 0
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl HotPink
+Ka 0.737255 0.298039 0.517647
+Kd 0.737255 0.298039 0.517647
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Charcoal
+Ka 0.137255 0.137255 0.137255
+Kd 0.137255 0.137255 0.137255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl pine
+Ka 0.988235 0.996078 0.952941
+Kd 0.988235 0.996078 0.952941
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/pine.PNG
+
+newmtl Image3
+Ka 0.631373 0.596078 0.552941
+Kd 0.631373 0.596078 0.552941
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Image3.PNG
+
+newmtl pines
+Ka 0.784314 0.827451 0.768627
+Kd 0.784314 0.827451 0.768627
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/pines.PNG
+
+newmtl red
+Ka 0.996078 0.996078 0.992157
+Kd 0.996078 0.996078 0.992157
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/red.PNG
+
+newmtl auto2
+Ka 0.537255 0.517647 0.639216
+Kd 0.537255 0.517647 0.639216
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/auto2.PNG
+
+newmtl auto
+Ka 0.509804 0.54902 0.458824
+Kd 0.509804 0.54902 0.458824
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/auto.PNG
+
+newmtl Olive
+Ka 0.447059 0.501961 0.192157
+Kd 0.447059 0.501961 0.192157
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl OliveDrab
+Ka 0.419608 0.556863 0.137255
+Kd 0.419608 0.556863 0.137255
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl SaddleBrown
+Ka 0.545098 0.270588 0.0745098
+Kd 0.545098 0.270588 0.0745098
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+
+newmtl Vegetation_Blur71
+Ka 0.32549 0.447059 0.0705882
+Kd 0.32549 0.447059 0.0705882
+Ks 0.333 0.333 0.333
+Ns 0
+d 1
+Tr 1
+map_Kd ______Textures/Vegetation_Blur71.PNG
+
+#EOF
